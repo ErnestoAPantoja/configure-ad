@@ -72,4 +72,5 @@ After creating the users, Client-1 can now be signed in as one of the new users 
 <br />
 
 <h2>Lessons Learned</h2>
-Doing this lab has made me learn how to set up Active Directory and join clients to the domain. I also created users and assigned the necessary permissions. Active Directory is not difficult to learn despite all the menu navigation that takes place. This lab is a segway for me to learn about DNS settings in-depth and NTFS permissions in action. I will go into detail about these topics in other labs.
+
+Doing this lab has made me learn how to set up Active Directory and join clients to the domain. I also created users and assigned the necessary permissions. Active Directory is not difficult to learn despite all the menu navigation that takes place. This lab is a segway for me to learn about DNS settings in-depth and file permissions in action. I will go into detail about these topics in other labs.
